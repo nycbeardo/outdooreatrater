@@ -1,5 +1,9 @@
 # Outdoor Eat Rater (nyc)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mkstevens/pen/jOWXZdV](https://codepen.io/mkstevens/pen/jOWXZdV).
+Created using Google Sheets, Sheety and Tailwind CSS
+
+Web application using listings of NYC restaurants and bars doing good with the outdoor seating situation I guess
+
+Originally designed on Codepen
 
 
